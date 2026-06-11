@@ -1,0 +1,501 @@
+employee_id,name,email,department,role,location,hire_date,manager_id,employment_status,grade_level,years_at_company
+EMP0001,Allison Hill,donaldgarcia@mcclain.com,Sales,SDR,Singapore,2021-03-05,,Active,L1,5.3
+EMP0002,David Guzman,jennifermiles@robinson-lawrence.com,Sales,VP Sales,New York,2025-12-26,EMP0001,Active,L2,0.5
+EMP0003,Caitlin Henderson,eric51@james.com,Engineering,Senior Engineer,Dublin,2025-09-26,EMP0001,Active,L3,0.7
+EMP0004,Renee Blair,dudleynicholas@carter.com,Engineering,DevOps Engineer,Toronto,2022-04-27,EMP0002,Active,L3,4.1
+EMP0005,Michele Williams,kendragalloway@delacruz.com,Sales,VP Sales,London,2021-10-01,EMP0003,Terminated,L5,4.7
+EMP0006,Roy Martin,jason41@reid.info,Operations,Coordinator,London,2021-05-01,EMP0004,Active,L3,5.1
+EMP0007,William Bowman,gabriellecameron@perez.com,Marketing,Content Strategist,London,2025-11-15,EMP0001,On Leave,L3,0.6
+EMP0008,Austin Gentry,jason76@ellis.net,Sales,Account Executive,Dublin,2022-12-10,EMP0003,Active,L3,3.5
+EMP0009,Nicole Patterson,icox@snyder.com,HR,L&D Specialist,Singapore,2024-02-10,EMP0005,On Leave,L1,2.3
+EMP0010,Rebecca Henderson,cruzcaitlin@rice-maddox.com,HR,Recruiter,Mumbai,2025-07-04,EMP0008,Active,L5,0.9
+EMP0011,Ashley Dyer,kayla51@graham-chavez.com,Finance,Financial Analyst,Singapore,2023-09-21,EMP0001,Terminated,L4,2.7
+EMP0012,Pamela Romero,harrellkenneth@romero.com,Operations,Project Manager,Toronto,2021-07-11,EMP0004,On Leave,L4,4.9
+EMP0013,Paula Moreno,georgetracy@hickman.com,IT,Network Engineer,Mumbai,2022-03-06,EMP0004,On Leave,L5,4.3
+EMP0014,Shawn Arroyo,dennislisa@cannon.net,Operations,Coordinator,Dublin,2025-12-07,EMP0006,Active,L2,0.5
+EMP0015,Joseph Obrien,sarahcampos@harris.com,IT,IT Admin,London,2021-09-25,EMP0003,On Leave,L4,4.7
+EMP0016,Joseph Martinez,calebsmith@hall.com,Sales,VP Sales,Dubai,2024-03-26,EMP0009,Active,L5,2.2
+EMP0017,Taylor Heath,palmerjoshua@lewis-anderson.org,Engineering,Tech Lead,Toronto,2021-12-08,EMP0004,Active,L2,4.5
+EMP0018,Dana Kennedy,glee@jordan.com,IT,Network Engineer,Mumbai,2020-12-27,EMP0017,Terminated,L3,5.4
+EMP0019,Victoria Garcia,zchandler@wright.net,Finance,CFO,Mumbai,2022-04-06,EMP0018,Terminated,L5,4.2
+EMP0020,Javier Ramirez,nancyjones@garcia.com,Engineering,Tech Lead,Dubai,2026-01-21,EMP0001,Active,L3,0.4
+EMP0021,Tammy Allison,richardolson@barrera-martin.com,Operations,Operations Manager,Singapore,2022-12-31,EMP0019,Terminated,L1,3.4
+EMP0022,Mrs. Rachel Gibson,uhorton@stanley.com,IT,Security Analyst,Mumbai,2021-07-20,EMP0016,Terminated,L2,4.9
+EMP0023,Lauren Daniels,brian97@calhoun.net,Operations,Coordinator,Singapore,2025-06-13,EMP0018,On Leave,L2,1.0
+EMP0024,Cody Larson,richarddavid@sanchez.biz,Operations,Analyst,Dubai,2024-05-10,EMP0017,Active,L2,2.1
+EMP0025,Krystal Stewart,james53@foster-powers.com,Finance,CFO,New York,2021-07-04,EMP0019,Active,L5,4.9
+EMP0026,Timothy Walls,ellisyolanda@jones.net,Finance,Financial Analyst,New York,2021-01-08,EMP0008,Active,L1,5.4
+EMP0027,Timothy Ibarra,mikemoore@warner.net,Marketing,Content Strategist,Sydney,2021-07-25,EMP0022,Active,L5,4.9
+EMP0028,Robert Evans,mcmillandennis@preston.net,HR,HR Director,Singapore,2025-10-26,EMP0026,Active,L4,0.6
+EMP0029,Douglas Clark,james48@king-odonnell.com,Finance,Financial Analyst,Dublin,2021-10-06,EMP0012,Active,L4,4.7
+EMP0030,Jeff Hill,cookdavid@martin-ramos.biz,Engineering,Software Engineer,Dublin,2021-10-19,EMP0024,Active,L1,4.6
+EMP0031,Ashley Landry,amydavenport@tran.com,Finance,Controller,Dubai,2022-08-04,EMP0005,Active,L3,3.8
+EMP0032,Rebecca Valencia,jason31@deleon-henson.biz,IT,IT Admin,Dubai,2023-02-01,EMP0026,Terminated,L5,3.4
+EMP0033,Nicole Frost,michellecherry@keith.com,Sales,Account Executive,London,2021-05-23,EMP0016,Active,L4,5.0
+EMP0034,Evelyn Galvan,josephcobb@reyes.info,IT,CTO,New York,2022-10-12,EMP0011,Active,L4,3.7
+EMP0035,Robert Stevens,lori33@keller.com,Operations,Analyst,Dublin,2024-10-31,EMP0032,Active,L3,1.6
+EMP0036,Benjamin Ayala,darlene68@crosby-wilson.com,Finance,Financial Analyst,Toronto,2021-06-17,EMP0004,Active,L4,5.0
+EMP0037,Victor Baker,carlsonmichael@graham-joyce.com,HR,HR Business Partner,Mumbai,2021-06-12,EMP0005,Active,L2,5.0
+EMP0038,Kenneth Scott,zsmith@mcdaniel.com,Legal,Paralegal,New York,2021-12-24,EMP0006,Active,L5,4.5
+EMP0039,Benjamin Beck,cindy14@parker.com,Marketing,Content Strategist,Toronto,2023-03-07,EMP0016,Active,L2,3.3
+EMP0040,Cheryl Ortega,lbyrd@carroll.com,Operations,Analyst,London,2024-11-07,EMP0001,Active,L5,1.6
+EMP0041,Jeffrey Carpenter,steven73@kennedy.com,Sales,Sales Manager,Sydney,2021-08-02,EMP0009,Terminated,L1,4.9
+EMP0042,Diane Beck,clarence34@drake.com,Finance,CFO,Mumbai,2024-02-08,EMP0029,Terminated,L3,2.3
+EMP0043,William Carr,gibsonolivia@lee.com,Engineering,Tech Lead,London,2025-09-05,EMP0009,Active,L1,0.8
+EMP0044,Michael Stafford,osbornejeffery@holmes.com,HR,L&D Specialist,Singapore,2023-04-12,EMP0022,Active,L3,3.2
+EMP0045,Robert Contreras,stephanie79@mcclain.info,IT,IT Admin,London,2023-02-05,EMP0041,Active,L3,3.3
+EMP0046,Natasha Wells,karen48@sims-hill.com,Engineering,Tech Lead,Mumbai,2020-12-28,EMP0041,Terminated,L2,5.4
+EMP0047,Cynthia Rogers,taylorjesse@hernandez.com,IT,CTO,New York,2025-08-27,EMP0008,Active,L2,0.8
+EMP0048,Jennifer Clark,xprice@shah.org,Engineering,Senior Engineer,Dublin,2024-02-07,EMP0009,Active,L3,2.3
+EMP0049,Aaron Bell,acastaneda@adkins.com,Engineering,Senior Engineer,Singapore,2024-01-03,EMP0043,Active,L5,2.4
+EMP0050,Don Tucker MD,dramsey@hooper.com,Legal,Paralegal,Singapore,2026-03-29,EMP0011,Terminated,L2,0.2
+EMP0051,Leslie Alvarado,dayderek@white-green.com,Legal,Paralegal,Toronto,2021-03-04,EMP0027,Terminated,L2,5.3
+EMP0052,Gabriel Juarez,aramirez@conley-ruiz.net,Operations,Operations Manager,Dublin,2022-04-26,EMP0003,Terminated,L2,4.1
+EMP0053,Trevor Walker,harringtondenise@herring.com,Finance,CFO,Sydney,2024-11-16,EMP0051,Terminated,L2,1.6
+EMP0054,Cynthia Wells,elliottjeffery@scott.com,Engineering,DevOps Engineer,Toronto,2022-08-09,EMP0018,Terminated,L3,3.8
+EMP0055,Carla Collins,hickmanbarbara@sanders-espinoza.com,Marketing,CMO,Toronto,2025-04-18,EMP0002,Active,L3,1.1
+EMP0056,Sandra Sanchez,melissa91@patton.com,HR,L&D Specialist,New York,2025-11-25,EMP0007,Active,L3,0.5
+EMP0057,Matthew Smith,gshort@yu-reid.info,Marketing,Marketing Manager,Dublin,2024-09-03,EMP0037,Active,L1,1.8
+EMP0058,Jessica Gross,christina87@graham-simon.com,Legal,Paralegal,Toronto,2020-12-22,EMP0028,Active,L3,5.5
+EMP0059,David Michael,nicole37@bishop.com,Marketing,Digital Marketer,Sydney,2022-01-08,EMP0043,Active,L4,4.4
+EMP0060,Daniel Salinas,joshua94@smith.biz,Operations,Project Manager,Singapore,2025-09-04,EMP0027,On Leave,L4,0.8
+EMP0061,Peter Vaughn DDS,bwest@phillips.com,HR,L&D Specialist,Dublin,2026-03-13,EMP0036,Terminated,L3,0.2
+EMP0062,Kevin Kennedy,ronald85@warner-nelson.com,Operations,Coordinator,Toronto,2022-10-01,EMP0030,Active,L2,3.7
+EMP0063,Nathan Stewart,jamesrodgers@hardy-bray.net,IT,IT Admin,Sydney,2022-05-28,EMP0033,On Leave,L5,4.0
+EMP0064,Veronica Wall,jeremy24@erickson.com,Marketing,Content Strategist,Sydney,2021-10-03,EMP0015,Terminated,L2,4.7
+EMP0065,Anthony Carter,danamullins@salas.com,Engineering,Senior Engineer,Dubai,2021-05-10,EMP0010,Active,L5,5.1
+EMP0066,Jeremiah Lopez,kingmichelle@short.info,Finance,Accountant,Dublin,2024-03-24,EMP0032,Active,L1,2.2
+EMP0067,Mark Brown,lisaavery@mcknight.net,Sales,Sales Manager,Mumbai,2024-07-30,EMP0060,Active,L2,1.9
+EMP0068,Lisa Gibbs,kimberlyjames@evans-chapman.biz,Sales,Sales Manager,Dubai,2024-11-04,EMP0041,Terminated,L4,1.6
+EMP0069,Marc Lynch,mezajared@baker.com,Legal,General Counsel,Mumbai,2025-08-15,EMP0061,Active,L2,0.8
+EMP0070,Juan Moore,mhayes@carter-hall.com,Operations,Coordinator,Singapore,2025-05-25,EMP0036,Active,L3,1.0
+EMP0071,Jordan Mcdaniel,kristin93@wilson-walker.com,Finance,CFO,Toronto,2023-04-10,EMP0070,Active,L2,3.2
+EMP0072,Samantha Jones,lauralarson@morse.com,Finance,Controller,Singapore,2024-03-21,EMP0009,Active,L3,2.2
+EMP0073,Terri Mason,mkim@preston.com,IT,IT Admin,Singapore,2024-07-01,EMP0054,Active,L5,1.9
+EMP0074,Allison Perez,keyemily@johnston-hines.com,Engineering,DevOps Engineer,Dubai,2025-11-10,EMP0001,Terminated,L3,0.6
+EMP0075,Matthew Moon,wendygraham@costa-harrison.biz,Legal,Paralegal,Dubai,2024-07-11,EMP0029,Active,L4,1.9
+EMP0076,Michael Hodge,robert74@landry.info,Engineering,Tech Lead,Dublin,2024-04-08,EMP0022,Terminated,L2,2.2
+EMP0077,David Wilson,ahancock@booth.net,Engineering,Software Engineer,London,2024-04-24,EMP0055,Active,L4,2.1
+EMP0078,Peter Garrett,harrisandrea@kim-wolfe.com,HR,L&D Specialist,Dublin,2021-05-22,EMP0042,Active,L3,5.0
+EMP0079,Mark Lloyd,lancesmith@davis-gay.com,Marketing,Digital Marketer,Dublin,2024-03-09,EMP0033,Terminated,L4,2.3
+EMP0080,Bruce Collier,scantu@thornton.info,Engineering,Software Engineer,Toronto,2025-07-20,EMP0029,On Leave,L1,0.9
+EMP0081,Juan Reyes,michellehill@morgan-french.com,Engineering,Senior Engineer,New York,2023-01-24,EMP0080,Active,L2,3.4
+EMP0082,Diane Evans,cgrimes@washington.biz,IT,Security Analyst,Dubai,2021-12-07,EMP0033,On Leave,L2,4.5
+EMP0083,Frank Lopez,ashleyhall@williams-garner.biz,Sales,SDR,London,2022-05-10,EMP0075,Active,L3,4.1
+EMP0084,Matthew Hoover,tylerjohnson@sanford.info,Legal,Paralegal,London,2024-05-02,EMP0076,On Leave,L2,2.1
+EMP0085,Thomas Smith,robertpena@jones.com,Sales,Account Executive,New York,2023-07-12,EMP0045,Active,L3,2.9
+EMP0086,Jennifer Miller,melissa86@sims-clay.info,Sales,SDR,New York,2025-04-07,EMP0054,Terminated,L1,1.2
+EMP0087,Amanda Jones,wendy16@hodges.com,Legal,General Counsel,Mumbai,2024-01-16,EMP0056,Active,L5,2.4
+EMP0088,Michael Berger,nguyenbrian@brooks-thomas.net,Operations,Coordinator,Dubai,2026-03-15,EMP0056,Terminated,L5,0.2
+EMP0089,Michael White,christianpitts@vega.com,Operations,Project Manager,London,2023-09-14,EMP0036,Terminated,L2,2.7
+EMP0090,David Scott,nolansteven@byrd-moore.info,IT,CTO,Toronto,2025-10-22,EMP0004,Active,L3,0.6
+EMP0091,Victoria Evans,dvaughn@gonzalez-cruz.info,HR,Recruiter,Toronto,2025-02-09,EMP0034,Active,L5,1.3
+EMP0092,James Howard,victoria40@foster.com,Operations,Operations Manager,Singapore,2025-09-09,EMP0011,Active,L4,0.7
+EMP0093,Natasha Wall,kimberly39@robinson-lee.com,IT,Security Analyst,Dubai,2025-09-07,EMP0083,On Leave,L4,0.8
+EMP0094,Michelle Hopkins,courtneyberger@williams.com,Engineering,Tech Lead,Singapore,2021-10-02,EMP0052,On Leave,L3,4.7
+EMP0095,Ann Phillips,ithompson@walter.com,Marketing,Digital Marketer,Dublin,2024-12-26,EMP0071,Active,L4,1.4
+EMP0096,Dawn Summers,scoffey@harrell.com,Operations,Analyst,Singapore,2023-07-28,EMP0016,On Leave,L3,2.9
+EMP0097,Vincent Dalton,zcoffey@diaz.net,Sales,Sales Manager,Singapore,2025-07-09,EMP0028,On Leave,L3,0.9
+EMP0098,Jacob Curry,brenda51@hall.net,Operations,Project Manager,Sydney,2021-10-25,EMP0030,Active,L3,4.6
+EMP0099,Leonard Holland,tblankenship@ortiz.com,Engineering,Senior Engineer,Sydney,2025-07-04,EMP0006,Terminated,L5,0.9
+EMP0100,Audrey Young DDS,qchavez@horton.com,Operations,Coordinator,London,2022-01-13,EMP0002,Active,L4,4.4
+EMP0101,Mary Bass,rcrosby@vaughn.info,IT,Network Engineer,Mumbai,2024-09-15,EMP0007,Active,L4,1.7
+EMP0102,David Cox,amy50@hill-donaldson.info,Sales,VP Sales,Dubai,2021-07-08,EMP0010,Active,L1,4.9
+EMP0103,Daniel Fowler,williamsmatthew@buchanan.com,HR,L&D Specialist,London,2022-03-26,EMP0032,Active,L4,4.2
+EMP0104,Kristen Willis,markhernandez@smith.com,Finance,Accountant,Dubai,2025-05-29,EMP0057,Active,L5,1.0
+EMP0105,Rebecca Rodriguez,andersonmichael@chapman.com,Legal,Legal Counsel,London,2023-07-24,EMP0098,Active,L2,2.9
+EMP0106,Cameron Fisher,reesethomas@palmer-rodriguez.net,Operations,Project Manager,Singapore,2021-08-26,EMP0023,Active,L2,4.8
+EMP0107,Luis Acosta,stephen00@boone-simmons.com,Engineering,DevOps Engineer,Dubai,2024-06-08,EMP0038,Active,L3,2.0
+EMP0108,Theodore Jones Jr.,cameronhill@richards.org,Operations,Operations Manager,Singapore,2024-10-28,EMP0034,On Leave,L5,1.6
+EMP0109,Jody Jacobs,mcguiredanny@curtis.com,Finance,Financial Analyst,Singapore,2024-07-30,EMP0083,Active,L3,1.9
+EMP0110,Stephen Gutierrez,uross@edwards.com,HR,HR Business Partner,Mumbai,2021-07-27,EMP0102,Active,L5,4.9
+EMP0111,Christian Leblanc,davischristopher@davis-rodgers.com,Operations,Operations Manager,Dubai,2024-09-11,EMP0089,Active,L4,1.7
+EMP0112,Laurie Hoffman,elizabeth65@pugh.com,Operations,Coordinator,Dubai,2025-03-21,EMP0011,Active,L4,1.2
+EMP0113,Lindsay Bell,ericolson@bell.com,Marketing,Digital Marketer,New York,2026-02-05,EMP0012,Active,L5,0.3
+EMP0114,Donald Perez,xbruce@austin.com,Engineering,Software Engineer,Mumbai,2023-04-03,EMP0061,Active,L4,3.2
+EMP0115,Donald Farmer,michael22@sandoval.com,Operations,Coordinator,Dubai,2022-07-04,EMP0012,Active,L4,3.9
+EMP0116,Joseph Bennett,xpeterson@griffith-frank.org,Marketing,Marketing Manager,Mumbai,2023-09-10,EMP0043,Active,L4,2.7
+EMP0117,Sophia Moore,craigjoseph@coleman.com,Operations,Operations Manager,Dubai,2024-05-14,EMP0012,Active,L3,2.1
+EMP0118,Ashley Jordan,erika97@estrada.org,Sales,Account Executive,Dubai,2024-05-26,EMP0053,Active,L5,2.0
+EMP0119,Dan Dougherty,kathrynroberts@smith.biz,Marketing,CMO,Dubai,2026-04-04,EMP0098,Active,L3,0.2
+EMP0120,James Padilla,charles06@stevens.com,HR,HR Director,Dubai,2023-05-31,EMP0016,Active,L5,3.0
+EMP0121,Laura Mckinney,zroberts@burch.org,Finance,CFO,New York,2022-04-23,EMP0071,Active,L2,4.1
+EMP0122,Michael Cox,prichard@chapman-warren.biz,Sales,Account Executive,Mumbai,2024-11-20,EMP0064,Terminated,L3,1.6
+EMP0123,Nichole Walker,charlesschultz@hicks.com,Operations,Coordinator,Dubai,2024-06-30,EMP0032,Active,L2,1.9
+EMP0124,Charles Gonzalez,kathleenrios@bean.info,Legal,Paralegal,London,2022-08-01,EMP0036,On Leave,L4,3.9
+EMP0125,Justin Riley,michelle52@jones-ramos.com,Marketing,Digital Marketer,New York,2025-04-12,EMP0037,On Leave,L5,1.2
+EMP0126,Leslie Bell,collinsshannon@wood.com,IT,CTO,Dubai,2022-03-24,EMP0045,Active,L5,4.2
+EMP0127,Vanessa Davis,jford@huang.com,Legal,Compliance Officer,Singapore,2024-11-01,EMP0126,On Leave,L5,1.6
+EMP0128,John Hernandez,hayeslisa@haas-miller.com,Legal,General Counsel,New York,2022-12-13,EMP0041,On Leave,L4,3.5
+EMP0129,Michael Ritter,michaelhardin@ortiz-morgan.org,Legal,General Counsel,New York,2022-04-04,EMP0033,Active,L5,4.2
+EMP0130,Mark Cook,cody64@cummings-douglas.org,Marketing,CMO,London,2021-10-25,EMP0117,Active,L2,4.6
+EMP0131,Felicia Aguilar,sabrinacollins@hale.com,Legal,Legal Counsel,Dubai,2022-04-11,EMP0068,Active,L4,4.2
+EMP0132,James Conner,elizabethcalderon@osborn.biz,Sales,VP Sales,Toronto,2023-10-04,EMP0125,Terminated,L1,2.7
+EMP0133,Alicia Parker,matthewmiranda@perez.com,Sales,SDR,Singapore,2022-12-16,EMP0024,Active,L1,3.5
+EMP0134,Ryan Garcia,stanleynancy@anderson.org,Sales,Sales Manager,Sydney,2024-09-25,EMP0008,Active,L1,1.7
+EMP0135,Carol Kim,udiaz@montes.com,Operations,Analyst,Dublin,2024-01-05,EMP0038,Active,L4,2.4
+EMP0136,Rachel Young,kylestokes@mckee-lee.org,HR,Recruiter,London,2022-05-29,EMP0098,On Leave,L2,4.0
+EMP0137,Mrs. Diane Reyes,mburch@taylor.com,IT,Security Analyst,Singapore,2025-12-03,EMP0119,On Leave,L4,0.5
+EMP0138,Ashley Singleton,mitchellkathryn@cole-palmer.biz,Operations,Coordinator,Sydney,2021-01-15,EMP0041,Active,L3,5.4
+EMP0139,Thomas Velasquez,sarah60@shaw-young.com,Operations,Analyst,Dubai,2024-07-27,EMP0078,Active,L4,1.9
+EMP0140,Alfred Galvan,lacey20@lowery-kennedy.com,IT,Security Analyst,Dublin,2021-11-13,EMP0092,Active,L3,4.6
+EMP0141,Julie Gilbert,smithjason@dunn.org,Engineering,Tech Lead,New York,2024-04-30,EMP0013,Terminated,L4,2.1
+EMP0142,Ashley Roberts,david36@bauer.info,Operations,Analyst,Singapore,2022-12-02,EMP0049,On Leave,L2,3.5
+EMP0143,Alexis Robertson,jennifercarter@mendez.org,Sales,Account Executive,Sydney,2026-04-19,EMP0113,Active,L3,0.1
+EMP0144,Matthew Miller,carlos88@hartman.info,HR,L&D Specialist,Toronto,2021-09-23,EMP0107,Active,L2,4.7
+EMP0145,James Brooks,kellycarlos@quinn.com,Marketing,Digital Marketer,Mumbai,2025-06-23,EMP0066,Terminated,L4,1.0
+EMP0146,Nancy Cook,bellmatthew@thompson.info,Operations,Operations Manager,Dubai,2023-11-04,EMP0020,Active,L2,2.6
+EMP0147,Robin Brown,mjohnson@moody.com,Legal,Compliance Officer,London,2025-09-14,EMP0102,Active,L5,0.7
+EMP0148,Kaylee Hays,wking@lee.com,Sales,SDR,Sydney,2024-10-30,EMP0098,Terminated,L3,1.6
+EMP0149,Robert Kim,ypaul@beltran-crawford.info,Sales,VP Sales,New York,2022-12-13,EMP0144,Active,L5,3.5
+EMP0150,Robert Adams,acostachristian@carney.com,Finance,Accountant,Sydney,2021-07-01,EMP0105,Active,L1,4.9
+EMP0151,Matthew Parker,cjackson@west-acosta.com,Engineering,DevOps Engineer,London,2023-07-21,EMP0025,Active,L5,2.9
+EMP0152,Jessica Fowler,jonesdana@palmer-brady.com,HR,HR Director,Toronto,2024-04-07,EMP0139,Active,L2,2.2
+EMP0153,Brenda Lawson,ejohnson@osborne.com,Legal,General Counsel,Dublin,2021-10-21,EMP0072,Active,L3,4.6
+EMP0154,Keith Jacobs,xrush@hines-berry.net,Finance,Accountant,Singapore,2024-09-25,EMP0093,Active,L3,1.7
+EMP0155,Ernest Ramirez,johnsonjacob@hughes.com,Marketing,CMO,Sydney,2021-06-23,EMP0049,Terminated,L4,5.0
+EMP0156,Cindy Carr,igonzalez@hayes.info,Sales,Account Executive,New York,2022-10-07,EMP0086,Active,L2,3.7
+EMP0157,Rita Ponce DVM,jenna88@vance-york.com,Finance,Controller,Singapore,2021-07-18,EMP0060,Active,L2,4.9
+EMP0158,Katie Martinez,laurayoung@johnson-spencer.com,Engineering,Senior Engineer,Mumbai,2023-04-27,EMP0139,Active,L2,3.1
+EMP0159,William Anderson,jonesraymond@higgins.org,Sales,Sales Manager,New York,2021-03-07,EMP0092,On Leave,L2,5.3
+EMP0160,William Day,howens@anderson-calderon.net,Marketing,Content Strategist,Sydney,2021-02-04,EMP0014,Active,L4,5.3
+EMP0161,Catherine Burch,dshaw@holmes.com,Sales,VP Sales,Dubai,2021-07-02,EMP0093,Active,L1,4.9
+EMP0162,Timothy Perez,meghan43@huber.org,IT,Security Analyst,New York,2025-03-31,EMP0134,Active,L1,1.2
+EMP0163,Kathryn Jackson,georgeweber@morgan.com,Engineering,DevOps Engineer,Dublin,2025-01-13,EMP0028,Active,L4,1.4
+EMP0164,Travis Wise,debra96@fowler.com,Sales,SDR,Mumbai,2021-08-25,EMP0017,Active,L5,4.8
+EMP0165,Elizabeth Sanchez,eevans@brown.com,Marketing,Digital Marketer,Dubai,2024-03-14,EMP0130,On Leave,L1,2.2
+EMP0166,Charles Hensley,jessica56@hodges.net,Sales,Sales Manager,Dublin,2025-08-26,EMP0116,Terminated,L4,0.8
+EMP0167,David Martinez,gwright@roberts.org,Marketing,CMO,Dublin,2024-10-26,EMP0025,Active,L3,1.6
+EMP0168,Victor Barrera,sarah53@jimenez.info,Operations,Project Manager,Dubai,2024-02-23,EMP0018,Active,L1,2.3
+EMP0169,Mr. Alexander Landry MD,jasongomez@campbell.info,Sales,Account Executive,Toronto,2024-08-20,EMP0034,Active,L5,1.8
+EMP0170,Adam Rodriguez,nicoleluna@diaz-morales.org,Marketing,CMO,Toronto,2022-01-01,EMP0109,Terminated,L1,4.4
+EMP0171,Heidi Roberts,wgordon@ramirez.com,Operations,Analyst,Toronto,2026-01-25,EMP0027,Active,L2,0.4
+EMP0172,Brent Brooks,angela52@morrison.net,HR,Recruiter,London,2025-01-23,EMP0090,Terminated,L3,1.4
+EMP0173,Andrew Reeves,jstone@barry.com,Sales,Sales Manager,Dublin,2023-05-01,EMP0144,Terminated,L5,3.1
+EMP0174,William Stevenson,brittney88@burns.com,Engineering,Tech Lead,New York,2026-02-21,EMP0047,Active,L3,0.3
+EMP0175,Michael Whitney,laura09@baker-rios.org,Marketing,Marketing Manager,Mumbai,2023-12-13,EMP0037,Active,L4,2.5
+EMP0176,Mikayla Silva,alexandriagriffith@hernandez-becker.com,Sales,Account Executive,London,2022-03-03,EMP0136,Active,L4,4.3
+EMP0177,Melody Lee,jedwards@vaughn-jenkins.org,IT,Security Analyst,Toronto,2023-11-11,EMP0080,On Leave,L5,2.6
+EMP0178,Shelley Fitzgerald,thorntonapril@nguyen.com,Sales,Sales Manager,Mumbai,2021-05-29,EMP0159,Active,L1,5.0
+EMP0179,Julia Patel,erica49@lee-wright.net,Operations,Coordinator,Dubai,2024-09-24,EMP0156,Active,L3,1.7
+EMP0180,Todd Hendrix,janet75@bailey-peck.com,Finance,Financial Analyst,Toronto,2025-04-27,EMP0111,Active,L5,1.1
+EMP0181,Kenneth Daniels,xcardenas@roberts.com,IT,Network Engineer,New York,2025-06-11,EMP0057,Active,L5,1.0
+EMP0182,Jeremy Scott,ilewis@fitzpatrick-horton.com,Engineering,Senior Engineer,Sydney,2021-01-10,EMP0055,On Leave,L3,5.4
+EMP0183,Patrick Allen,santiagoamanda@hall.info,Operations,Operations Manager,New York,2023-10-02,EMP0128,On Leave,L2,2.7
+EMP0184,Randy Smith,richarddonovan@woods-gonzalez.com,HR,Recruiter,Toronto,2024-03-12,EMP0019,Active,L1,2.2
+EMP0185,Matthew Velez,pearsonjesse@sharp.com,Legal,General Counsel,London,2021-02-13,EMP0081,Active,L5,5.3
+EMP0186,Ryan Peck,osbornrandy@lopez-curry.com,Legal,Compliance Officer,London,2024-07-07,EMP0104,Active,L3,1.9
+EMP0187,Alexandra Bradley,hebertmatthew@hays-daniels.info,HR,HR Director,Toronto,2026-03-21,EMP0023,Active,L1,0.2
+EMP0188,Brandi Gordon,james15@simon.com,Finance,Accountant,London,2024-09-01,EMP0102,Terminated,L3,1.8
+EMP0189,Alexis Rogers,ashley32@chase.net,Finance,Controller,London,2023-10-18,EMP0131,On Leave,L5,2.6
+EMP0190,James Davis,thomasboyle@green.info,Finance,CFO,Mumbai,2023-12-07,EMP0061,Active,L3,2.5
+EMP0191,Tiffany Turner,greenmichael@brown.info,Finance,Controller,London,2022-06-09,EMP0046,Terminated,L4,4.0
+EMP0192,Jared Shaw,hannah45@walker.info,IT,CTO,Toronto,2025-10-03,EMP0161,Active,L4,0.7
+EMP0193,Lisa Perry,ztodd@petersen.org,Sales,VP Sales,Sydney,2024-12-13,EMP0071,Active,L3,1.5
+EMP0194,Angela Griffin,christian91@poole.com,Sales,VP Sales,Dubai,2023-08-08,EMP0010,Active,L3,2.8
+EMP0195,Brittany Murphy,nwilson@aguilar.com,Sales,VP Sales,Dubai,2021-09-24,EMP0149,Active,L1,4.7
+EMP0196,Jose Bryant,hansenemily@cummings-foster.com,IT,Security Analyst,Toronto,2025-10-28,EMP0155,Active,L2,0.6
+EMP0197,Laura Williams,isabella80@andersen.com,Engineering,Software Engineer,Toronto,2024-10-17,EMP0183,Active,L2,1.6
+EMP0198,Christopher Taylor,ybrooks@kane-knox.biz,Engineering,DevOps Engineer,Dubai,2023-01-26,EMP0135,Active,L2,3.4
+EMP0199,Victor Baxter,desireebailey@haney.net,Marketing,Digital Marketer,Dublin,2024-02-18,EMP0105,On Leave,L5,2.3
+EMP0200,William Davenport,goodsteven@stephens.com,Engineering,Tech Lead,London,2026-04-30,EMP0085,Active,L4,0.1
+EMP0201,Christopher Lopez,johnsondonna@miranda.com,Operations,Project Manager,Toronto,2023-02-08,EMP0021,Active,L2,3.3
+EMP0202,Kirk Griffin,sanchezbradley@young-robinson.com,Marketing,CMO,Mumbai,2023-08-08,EMP0153,On Leave,L1,2.8
+EMP0203,Wyatt Young,barbara53@walter-odom.net,Operations,Coordinator,Toronto,2025-09-19,EMP0033,On Leave,L5,0.7
+EMP0204,Eric Brown,conniesimmons@williams-cooper.biz,Sales,SDR,New York,2024-07-24,EMP0093,Active,L2,1.9
+EMP0205,Emma Butler,kevinwhite@wells.com,Marketing,Content Strategist,Singapore,2025-02-05,EMP0036,Active,L3,1.3
+EMP0206,Suzanne Hart,igrant@sanchez-harris.com,Sales,Account Executive,Toronto,2025-04-12,EMP0197,On Leave,L5,1.2
+EMP0207,Sarah Davis,brettbennett@morrison.org,Legal,Paralegal,Mumbai,2022-04-10,EMP0178,On Leave,L2,4.2
+EMP0208,Kristin Mendoza,kevin03@hayden.info,IT,CTO,Toronto,2021-05-02,EMP0174,On Leave,L4,5.1
+EMP0209,Melissa Padilla,jherman@rowe-james.net,Operations,Project Manager,Singapore,2024-10-12,EMP0080,Terminated,L4,1.7
+EMP0210,Elizabeth Ward,zowens@harrison.com,Finance,Accountant,Dubai,2024-02-03,EMP0197,Active,L4,2.3
+EMP0211,Angel Shields,allentran@riley.com,Legal,Paralegal,Mumbai,2022-05-04,EMP0065,Active,L4,4.1
+EMP0212,Kelly Sanchez,jonathan77@jackson-norton.com,Marketing,Marketing Manager,London,2025-09-05,EMP0073,Active,L2,0.8
+EMP0213,Joshua White,warrenmary@landry.com,Operations,Project Manager,Dublin,2024-10-13,EMP0024,Terminated,L2,1.7
+EMP0214,Jennifer Kirby,carloshernandez@wagner.com,IT,IT Admin,Dublin,2023-12-08,EMP0014,Active,L3,2.5
+EMP0215,Mary Jensen,bhopkins@patel.com,Finance,Financial Analyst,Toronto,2024-03-31,EMP0058,Active,L1,2.2
+EMP0216,Nathan Nichols,andre62@hull.com,Marketing,Content Strategist,New York,2022-03-16,EMP0074,Terminated,L4,4.2
+EMP0217,Manuel King,joseph61@chung-stevens.com,HR,HR Director,New York,2024-12-13,EMP0021,Active,L2,1.5
+EMP0218,Courtney Sutton DVM,davisnicholas@alvarez.com,HR,HR Director,London,2025-08-18,EMP0199,Active,L3,0.8
+EMP0219,Mr. Richard Knight PhD,jacobsonsamantha@lewis.org,Sales,Sales Manager,Dublin,2021-05-14,EMP0164,On Leave,L4,5.1
+EMP0220,Anthony Jones,rachel90@mcfarland.com,Sales,VP Sales,New York,2021-11-26,EMP0162,Active,L2,4.5
+EMP0221,Laurie Goodwin,thickman@elliott.biz,HR,HR Director,New York,2023-06-10,EMP0158,Active,L5,3.0
+EMP0222,Kimberly Reyes,krystalnorris@mason.com,Legal,Legal Counsel,Toronto,2022-07-22,EMP0018,Terminated,L5,3.9
+EMP0223,David Jones,unovak@walters.info,Engineering,DevOps Engineer,New York,2024-04-13,EMP0163,Active,L3,2.2
+EMP0224,Juan Bennett,eringuerrero@barton.com,Operations,Analyst,London,2021-02-05,EMP0089,Active,L1,5.3
+EMP0225,Angela Moore,jodistewart@davis.info,Marketing,Marketing Manager,Toronto,2022-02-04,EMP0140,Active,L2,4.3
+EMP0226,Derrick Anderson,ryanhawkins@russell.com,IT,Security Analyst,Mumbai,2025-01-12,EMP0017,On Leave,L4,1.4
+EMP0227,Rachel Shields,carterpaul@hardy.com,Engineering,Senior Engineer,New York,2023-06-17,EMP0203,Active,L1,3.0
+EMP0228,Carolyn James,josephadams@brown.com,Marketing,CMO,Dubai,2023-08-07,EMP0065,Active,L2,2.8
+EMP0229,John Jones,sheryl79@gonzalez.biz,Operations,Operations Manager,Toronto,2023-12-31,EMP0070,Active,L3,2.4
+EMP0230,Manuel Brock,scott69@evans.com,Legal,General Counsel,Dublin,2024-05-13,EMP0087,Terminated,L4,2.1
+EMP0231,Christopher Sanders,kelly79@nguyen.biz,IT,Network Engineer,London,2024-02-01,EMP0187,Active,L4,2.4
+EMP0232,Timothy Gonzalez,erinpierce@murray.com,HR,L&D Specialist,Toronto,2025-08-08,EMP0027,Active,L3,0.8
+EMP0233,Andrea Abbott,ichambers@turner.biz,Operations,Coordinator,Mumbai,2024-10-02,EMP0177,Active,L4,1.7
+EMP0234,Angela Ewing,iaguilar@mclean.com,Engineering,DevOps Engineer,Sydney,2023-12-17,EMP0164,Terminated,L1,2.5
+EMP0235,Heather Woodard,rodriguezjohn@kelly.biz,Sales,SDR,Mumbai,2024-06-01,EMP0008,Active,L5,2.0
+EMP0236,Erin Hogan,smithjonathan@burgess.com,IT,Security Analyst,London,2021-04-04,EMP0061,On Leave,L3,5.2
+EMP0237,James Barton,michaeljohnson@phillips.com,Marketing,Marketing Manager,Mumbai,2024-03-20,EMP0174,Active,L3,2.2
+EMP0238,Monica Bailey,stanley38@bailey-davis.info,Marketing,Marketing Manager,Mumbai,2024-09-26,EMP0136,Active,L3,1.7
+EMP0239,Eric Patrick,johnsonmatthew@byrd.com,Operations,Operations Manager,New York,2023-02-01,EMP0189,Active,L5,3.4
+EMP0240,Kristen Rivera,omullen@soto-lopez.biz,Legal,Legal Counsel,Sydney,2025-09-27,EMP0199,Active,L4,0.7
+EMP0241,Omar Ware,yvargas@bush.com,Finance,CFO,Dubai,2026-03-02,EMP0052,Active,L1,0.3
+EMP0242,Rhonda Brown,lloydamanda@nguyen-ellis.com,IT,CTO,London,2022-06-06,EMP0208,On Leave,L3,4.0
+EMP0243,Katherine Church,candice96@wilson.com,Marketing,Digital Marketer,Sydney,2021-07-07,EMP0218,Active,L2,4.9
+EMP0244,Michele Evans,powerslawrence@torres.com,Marketing,Content Strategist,London,2025-04-16,EMP0052,On Leave,L2,1.1
+EMP0245,Kayla Barnes,baileyhenderson@reid-steele.com,IT,Network Engineer,Toronto,2021-03-09,EMP0120,Terminated,L5,5.3
+EMP0246,Katherine Taylor,megan90@crane-washington.com,HR,HR Business Partner,London,2026-03-02,EMP0080,Active,L4,0.3
+EMP0247,Tracey Wagner,fortiz@mckinney-wallace.com,Legal,Legal Counsel,Mumbai,2024-06-11,EMP0082,On Leave,L4,2.0
+EMP0248,Andre Juarez,antonio38@jackson-ellis.info,IT,Network Engineer,Mumbai,2025-05-12,EMP0225,Terminated,L5,1.1
+EMP0249,Ashley Wilson,amber07@robinson.com,HR,HR Director,New York,2022-01-22,EMP0213,Active,L2,4.4
+EMP0250,Zachary Cole,michelle17@rowe.com,Operations,Project Manager,Toronto,2022-05-13,EMP0240,On Leave,L3,4.1
+EMP0251,Leah Bell,imartin@li.org,Operations,Analyst,Singapore,2021-08-19,EMP0163,Terminated,L3,4.8
+EMP0252,Douglas Ryan,tiffany44@adams.com,HR,L&D Specialist,London,2026-04-12,EMP0129,On Leave,L5,0.2
+EMP0253,Paul Jenkins,riddlemichelle@miles.com,HR,L&D Specialist,New York,2022-06-02,EMP0212,Terminated,L1,4.0
+EMP0254,Frank Wright,kburns@adams.com,Engineering,Tech Lead,Singapore,2025-11-13,EMP0197,Active,L5,0.6
+EMP0255,Paul Neal,shawn75@smith.info,Engineering,Tech Lead,Sydney,2025-03-13,EMP0124,Active,L4,1.2
+EMP0256,Melissa Horn,brobinson@simpson.com,Operations,Operations Manager,New York,2024-10-26,EMP0041,Active,L4,1.6
+EMP0257,Kenneth Knight,rkramer@williams.info,IT,Network Engineer,Mumbai,2022-09-12,EMP0161,Terminated,L3,3.7
+EMP0258,Timothy Moore,bsmith@forbes.com,Marketing,Content Strategist,Toronto,2024-05-09,EMP0055,Active,L4,2.1
+EMP0259,Timothy Hill,john52@sanders.com,Sales,VP Sales,Singapore,2023-03-28,EMP0073,Active,L3,3.2
+EMP0260,Brandon Davis,thomasanderson@stone.com,Legal,General Counsel,Singapore,2026-03-13,EMP0082,Terminated,L5,0.2
+EMP0261,Greg Martinez,ebenson@perez.com,Marketing,Content Strategist,Dubai,2022-07-30,EMP0240,Active,L3,3.9
+EMP0262,Jacob Evans,wayala@may.com,IT,IT Admin,Dublin,2021-02-27,EMP0259,Active,L2,5.3
+EMP0263,Justin Bishop,scottbowen@goodman.info,Finance,CFO,New York,2025-12-03,EMP0026,Active,L5,0.5
+EMP0264,Angelica Garcia,lawrencepatrick@edwards-taylor.com,IT,IT Admin,London,2023-05-24,EMP0221,Active,L3,3.0
+EMP0265,Danielle Burke,kimberly04@holmes.com,Marketing,Digital Marketer,New York,2024-05-23,EMP0206,Active,L5,2.0
+EMP0266,Elizabeth Brown,troyrodriguez@little-jones.com,Finance,CFO,London,2024-01-17,EMP0198,Active,L5,2.4
+EMP0267,Dr. Bonnie Valencia,rdiaz@farmer.com,Operations,Operations Manager,Mumbai,2026-04-06,EMP0050,Active,L3,0.2
+EMP0268,Alexis Lewis,fryraymond@fuller-mason.biz,Marketing,Content Strategist,Dublin,2022-03-10,EMP0257,Active,L1,4.2
+EMP0269,James Davidson,joshuacollins@mccall.com,HR,HR Director,Dubai,2023-10-18,EMP0077,On Leave,L5,2.6
+EMP0270,Mark Davenport,collinssamuel@brown.biz,HR,L&D Specialist,Mumbai,2023-10-02,EMP0202,Terminated,L3,2.7
+EMP0271,Logan Brown,davidzimmerman@smith.net,Marketing,CMO,Sydney,2025-04-11,EMP0244,Terminated,L3,1.2
+EMP0272,Michelle Jackson,karamarks@tanner.biz,Marketing,CMO,Sydney,2021-11-23,EMP0014,Active,L3,4.5
+EMP0273,Austin Joseph,crawfordwilliam@porter.com,Finance,Accountant,Mumbai,2021-05-26,EMP0269,On Leave,L5,5.0
+EMP0274,David Garcia,perezwilliam@trevino.com,Legal,Paralegal,New York,2022-03-21,EMP0057,Active,L4,4.2
+EMP0275,Jack Mora,sarahmathews@pratt.com,Marketing,Content Strategist,Dublin,2024-07-10,EMP0105,Active,L5,1.9
+EMP0276,Jason Cortez,margaret95@shaw.com,IT,Security Analyst,Singapore,2021-06-29,EMP0167,Terminated,L4,4.9
+EMP0277,Jose Williams,djones@ayala-collins.com,Legal,Paralegal,Dubai,2023-08-19,EMP0273,Active,L3,2.8
+EMP0278,Aimee Gonzalez,jodi37@vargas-snyder.com,Operations,Coordinator,Singapore,2026-02-24,EMP0127,Active,L3,0.3
+EMP0279,Kimberly Flynn,adamortiz@weaver.com,Finance,CFO,Singapore,2023-06-30,EMP0251,Active,L3,2.9
+EMP0280,April Sandoval,dalton83@vasquez-brown.com,Operations,Operations Manager,Dublin,2023-05-30,EMP0203,Terminated,L2,3.0
+EMP0281,Anna Morse,xhaynes@villegas-miller.com,Operations,Analyst,London,2021-04-27,EMP0178,Terminated,L3,5.1
+EMP0282,Mandy Foster,grahamtamara@carter.biz,IT,Security Analyst,Sydney,2022-10-13,EMP0140,Active,L5,3.7
+EMP0283,Nancy Stewart,jesus32@rodriguez.com,Finance,Financial Analyst,Singapore,2023-01-09,EMP0120,Active,L4,3.4
+EMP0284,Joshua Oconnell,shannonford@davis.com,Marketing,Marketing Manager,Mumbai,2024-12-24,EMP0003,Terminated,L2,1.5
+EMP0285,Melissa Williams,eddie35@palmer-byrd.com,Legal,General Counsel,Singapore,2025-01-03,EMP0148,Active,L1,1.4
+EMP0286,Carrie Crane,jhawkins@davis.com,Sales,Sales Manager,New York,2025-11-05,EMP0090,Active,L2,0.6
+EMP0287,Antonio Norman,davidcolon@parks-pace.com,Engineering,DevOps Engineer,Mumbai,2024-05-03,EMP0149,Terminated,L1,2.1
+EMP0288,Deanna Hess,osbornjames@ramos.com,Operations,Operations Manager,Toronto,2025-10-17,EMP0146,Active,L5,0.6
+EMP0289,Tom Williams,zunderwood@johnson-vega.com,IT,CTO,Sydney,2022-02-07,EMP0099,Terminated,L3,4.3
+EMP0290,Terry Hill,cstephenson@harvey.biz,HR,L&D Specialist,Mumbai,2024-11-12,EMP0008,On Leave,L3,1.6
+EMP0291,Karen Miller,mtaylor@wilkerson.net,Finance,Accountant,Dublin,2022-06-15,EMP0264,Active,L4,4.0
+EMP0292,Virginia Casey,timothy75@shaw.com,Sales,Sales Manager,Dubai,2022-07-14,EMP0166,Terminated,L1,3.9
+EMP0293,Alyssa Cochran,brian78@wang-key.com,Operations,Project Manager,Dubai,2024-03-23,EMP0137,Terminated,L3,2.2
+EMP0294,Matthew Adams,gallagherstacie@bradford.com,Engineering,Tech Lead,Singapore,2023-03-10,EMP0032,On Leave,L4,3.3
+EMP0295,Kevin Drake,robin05@elliott.info,Operations,Coordinator,Sydney,2022-04-27,EMP0061,On Leave,L3,4.1
+EMP0296,Casey Johnson,halljeffery@woods.com,Marketing,Content Strategist,Singapore,2026-03-11,EMP0069,Active,L4,0.2
+EMP0297,Christopher Lang,brian29@stark.com,Marketing,CMO,Singapore,2024-07-01,EMP0127,On Leave,L5,1.9
+EMP0298,Jacqueline Mcmahon,vwillis@morris-daugherty.biz,Sales,VP Sales,Toronto,2025-06-07,EMP0040,Terminated,L1,1.0
+EMP0299,Toni Banks,jasminehoffman@buchanan.com,Engineering,Senior Engineer,Mumbai,2025-08-14,EMP0085,Active,L5,0.8
+EMP0300,Nicholas Phillips,jessicarush@myers.com,IT,Security Analyst,Dubai,2021-12-13,EMP0047,Terminated,L4,4.5
+EMP0301,Evan Lamb,daniellegarcia@taylor-mcgee.com,Engineering,Senior Engineer,Dublin,2024-10-26,EMP0234,Active,L5,1.6
+EMP0302,Francisco Fields,underwoodelizabeth@tanner.com,IT,IT Admin,Dublin,2023-08-01,EMP0131,Terminated,L2,2.9
+EMP0303,Hayley Buchanan,williamssamuel@costa-wilkerson.info,Sales,VP Sales,Toronto,2021-05-07,EMP0033,Active,L1,5.1
+EMP0304,Heather Bennett,kkramer@chang.com,Sales,Account Executive,Sydney,2024-12-23,EMP0210,Active,L2,1.5
+EMP0305,Fernando Lynn,petersonpamela@dennis.com,Legal,General Counsel,Dubai,2024-02-23,EMP0194,Active,L5,2.3
+EMP0306,William Barry,reynoldsdesiree@preston.com,HR,HR Business Partner,Mumbai,2023-12-02,EMP0276,Active,L2,2.5
+EMP0307,Jennifer Spencer,donna43@williams.net,Finance,Financial Analyst,Sydney,2020-12-28,EMP0238,On Leave,L5,5.4
+EMP0308,Brittany Ward,qmiller@greene.com,Legal,General Counsel,Singapore,2025-06-27,EMP0127,Active,L2,1.0
+EMP0309,Vanessa Wells,parkerraymond@jacobson-baker.net,Operations,Operations Manager,New York,2022-07-26,EMP0215,On Leave,L1,3.9
+EMP0310,Jacob James,seanbaker@baker-hood.org,Finance,Financial Analyst,London,2022-09-18,EMP0305,Active,L5,3.7
+EMP0311,Paul Contreras,barnettlindsey@arellano-lawrence.net,Engineering,Software Engineer,Dublin,2023-01-16,EMP0225,Active,L2,3.4
+EMP0312,James Mills,parmstrong@evans-foster.com,Engineering,Tech Lead,Singapore,2022-02-25,EMP0295,Active,L5,4.3
+EMP0313,Stephanie Mcbride,davidtodd@rush.com,Marketing,Digital Marketer,Mumbai,2022-12-23,EMP0267,Active,L3,3.5
+EMP0314,Beth Henderson,oharris@flowers.com,Operations,Project Manager,Dublin,2021-06-24,EMP0285,Active,L3,5.0
+EMP0315,Suzanne Jones,jhawkins@gates-stone.com,Legal,Compliance Officer,Dublin,2025-06-03,EMP0210,Active,L4,1.0
+EMP0316,Lisa Mills,jrodriguez@knight.com,HR,HR Director,Singapore,2025-07-15,EMP0116,Active,L2,0.9
+EMP0317,Kristine Garcia,mikayla56@reyes-washington.org,IT,CTO,Dublin,2021-06-14,EMP0286,Active,L4,5.0
+EMP0318,Christopher Powell,vwilliams@young.com,Finance,Controller,Toronto,2023-02-17,EMP0041,Terminated,L3,3.3
+EMP0319,Robert Turner,megan13@turner.info,Sales,Sales Manager,New York,2025-07-08,EMP0138,Active,L5,0.9
+EMP0320,Erica Daniel,lopezjason@figueroa-malone.com,Engineering,Senior Engineer,Singapore,2021-07-31,EMP0246,Active,L3,4.9
+EMP0321,Kaylee Moore,jenna62@suarez.com,Operations,Project Manager,Singapore,2021-02-03,EMP0061,On Leave,L4,5.3
+EMP0322,Danielle Bryant,janet45@wagner-reid.com,Finance,Controller,Dublin,2026-02-07,EMP0123,Active,L3,0.3
+EMP0323,Dana Burns,ethompson@arnold.com,Legal,Compliance Officer,Sydney,2024-12-05,EMP0134,Active,L4,1.5
+EMP0324,Melissa Mitchell,kwilliams@vincent.com,IT,CTO,Toronto,2021-10-19,EMP0105,Active,L4,4.6
+EMP0325,Debra Ortiz,hancocktammy@smith.org,Engineering,Senior Engineer,Mumbai,2025-09-30,EMP0009,Active,L5,0.7
+EMP0326,Courtney Franklin,jennifer46@york-stevens.com,Legal,Paralegal,Singapore,2023-06-22,EMP0169,Active,L5,3.0
+EMP0327,Michael Holloway,asilva@key.net,Finance,CFO,Sydney,2025-03-17,EMP0251,Terminated,L4,1.2
+EMP0328,Lisa Evans,olsonmatthew@davidson-hensley.com,IT,Network Engineer,Mumbai,2022-05-24,EMP0072,On Leave,L4,4.0
+EMP0329,Tiffany Curtis,edwardcannon@trujillo.biz,HR,HR Business Partner,New York,2025-07-28,EMP0039,Terminated,L1,0.9
+EMP0330,Melanie Griffith,qbright@sullivan-doyle.org,Engineering,Senior Engineer,Singapore,2024-06-20,EMP0035,On Leave,L1,2.0
+EMP0331,Laura Lee,ginalittle@knox-powers.net,Finance,Accountant,Toronto,2025-04-06,EMP0031,On Leave,L5,1.2
+EMP0332,Christopher Sandoval,kellyruiz@green.com,IT,IT Admin,New York,2025-02-10,EMP0273,Active,L1,1.3
+EMP0333,Stephanie Pena,michaelgarner@fisher-eaton.com,Engineering,Tech Lead,Sydney,2025-06-19,EMP0009,Active,L4,1.0
+EMP0334,Edward York,obrown@carpenter.com,HR,HR Business Partner,Mumbai,2021-11-14,EMP0124,Active,L5,4.6
+EMP0335,Sharon James,robert22@cooper.info,Operations,Analyst,Dublin,2023-12-23,EMP0041,Active,L4,2.5
+EMP0336,Scott White,freemancrystal@edwards.com,IT,Security Analyst,Singapore,2025-10-07,EMP0154,On Leave,L1,0.7
+EMP0337,Daniel Ayala,tracygallagher@anderson.biz,Engineering,DevOps Engineer,Dublin,2021-10-03,EMP0194,Active,L1,4.7
+EMP0338,Vincent Reyes,fergusonjessica@mcclain.com,Engineering,Software Engineer,Dubai,2022-06-02,EMP0223,On Leave,L3,4.0
+EMP0339,Aaron Gross,heathercooper@garcia.org,Sales,Account Executive,Singapore,2025-06-15,EMP0109,Terminated,L5,1.0
+EMP0340,Austin Williams,stephen89@morgan.com,IT,IT Admin,London,2023-04-08,EMP0144,Terminated,L5,3.2
+EMP0341,Katherine Christensen MD,osmith@mercer.net,Engineering,Tech Lead,New York,2022-06-27,EMP0107,Active,L4,4.0
+EMP0342,Jacob Santos,brooksdanielle@dean.com,Sales,Sales Manager,Singapore,2023-07-05,EMP0291,Terminated,L4,2.9
+EMP0343,Alicia Norris,hwallace@king.com,Marketing,Content Strategist,London,2024-03-24,EMP0257,On Leave,L3,2.2
+EMP0344,Matthew Bates,cindy26@hunt.com,Engineering,DevOps Engineer,Singapore,2021-10-16,EMP0039,Active,L5,4.6
+EMP0345,Richard Jimenez,kimberlydecker@howard.com,Legal,Legal Counsel,Sydney,2023-09-27,EMP0231,Active,L3,2.7
+EMP0346,Joshua Lozano,arivera@powers.org,Legal,Paralegal,Dublin,2024-08-20,EMP0044,On Leave,L3,1.8
+EMP0347,Brittany Davis,cummingscraig@newman-bryant.com,Finance,Financial Analyst,Sydney,2021-08-02,EMP0079,Active,L2,4.9
+EMP0348,Anthony Li,phelpsmichael@edwards.com,Legal,Compliance Officer,London,2023-08-28,EMP0047,Active,L3,2.8
+EMP0349,Charles Holland,michael79@johns-davis.com,IT,Network Engineer,London,2024-01-09,EMP0068,Active,L4,2.4
+EMP0350,James Rivers,mary76@mercado.com,IT,CTO,London,2025-09-12,EMP0014,Active,L5,0.7
+EMP0351,Dr. Ashley Pruitt,rpham@white-james.com,Sales,SDR,Dublin,2026-01-15,EMP0007,Active,L4,0.4
+EMP0352,Shari Hobbs,timothyfreeman@alexander-brown.com,Sales,Sales Manager,Mumbai,2025-09-20,EMP0351,Active,L2,0.7
+EMP0353,Sean Warren,tiffanysantiago@stone-watts.org,Operations,Analyst,Dubai,2023-07-11,EMP0075,Active,L4,2.9
+EMP0354,Matthew Wright,elizabeth62@mcclain.com,Operations,Analyst,Dubai,2024-07-17,EMP0040,Active,L2,1.9
+EMP0355,Julie Simpson,charlesvasquez@rivera.com,IT,Security Analyst,Dubai,2026-01-05,EMP0055,Active,L1,0.4
+EMP0356,Krista Gray,christianwallace@west.com,Legal,General Counsel,Toronto,2023-10-15,EMP0226,Active,L5,2.6
+EMP0357,Dr. Alicia Powell,hawkinsaaron@conner.com,HR,L&D Specialist,Singapore,2023-07-08,EMP0246,Active,L4,2.9
+EMP0358,Kristina Pena,xclements@velasquez.com,Marketing,CMO,Singapore,2023-06-10,EMP0167,Active,L4,3.0
+EMP0359,Lisa Kennedy,jennifer11@walker.com,Marketing,Content Strategist,Mumbai,2021-12-06,EMP0350,On Leave,L1,4.5
+EMP0360,Jacqueline Rodriguez,travisunderwood@griffith.com,IT,CTO,Sydney,2022-09-29,EMP0355,Active,L4,3.7
+EMP0361,Samuel Lewis,jenniferrodriguez@williams-schultz.org,IT,Network Engineer,Singapore,2022-02-22,EMP0130,On Leave,L4,4.3
+EMP0362,Steven Ellis,tamarasmith@williams.info,Legal,General Counsel,Dubai,2021-08-04,EMP0299,Active,L5,4.8
+EMP0363,Priscilla Kent,jessicaanderson@sandoval-obrien.com,Legal,Legal Counsel,Toronto,2025-08-02,EMP0360,Terminated,L5,0.8
+EMP0364,Janice Petty,joshuastuart@chavez-anderson.biz,Sales,Sales Manager,Toronto,2021-11-22,EMP0086,On Leave,L1,4.5
+EMP0365,Stacey Hunt,jennifer83@clark.com,Legal,General Counsel,London,2023-10-13,EMP0006,Active,L2,2.7
+EMP0366,Tammy Anderson,williambenson@page-hodges.net,Finance,CFO,Dublin,2024-10-02,EMP0238,On Leave,L5,1.7
+EMP0367,Mr. Michael Butler,natalie60@rodriguez.com,HR,HR Business Partner,Dubai,2023-11-24,EMP0054,Active,L1,2.5
+EMP0368,Paul Martin,frances20@mueller.com,Sales,SDR,Sydney,2022-03-02,EMP0176,Active,L2,4.3
+EMP0369,Ashley Parrish,juliahoffman@dixon.com,IT,CTO,London,2023-12-04,EMP0225,On Leave,L4,2.5
+EMP0370,Amber James,rfrye@church-brown.com,Marketing,Digital Marketer,New York,2021-07-14,EMP0364,Active,L3,4.9
+EMP0371,Sean Dalton,ogreer@mckinney.org,Sales,Sales Manager,Mumbai,2022-05-12,EMP0283,Active,L5,4.1
+EMP0372,Nathaniel Lee,rthompson@lopez.net,Legal,Paralegal,Dublin,2024-11-22,EMP0323,Active,L4,1.5
+EMP0373,Andrew Ramirez,david94@rivera.com,Legal,Paralegal,Dubai,2021-03-18,EMP0304,Active,L1,5.2
+EMP0374,Timothy Carlson,tracy98@jones-zimmerman.net,Finance,CFO,London,2022-09-17,EMP0296,Active,L5,3.7
+EMP0375,Clinton Jones,robertherrera@bailey.com,HR,L&D Specialist,Singapore,2024-01-27,EMP0235,Active,L4,2.4
+EMP0376,Edward Clements,wbarajas@smith.org,Marketing,CMO,Dublin,2026-01-15,EMP0301,Active,L3,0.4
+EMP0377,Dana Williams,patrick16@fernandez-campbell.net,IT,Security Analyst,Sydney,2026-03-19,EMP0315,Active,L2,0.2
+EMP0378,Jaime Lang,stucker@lee.com,Marketing,Content Strategist,Sydney,2021-12-18,EMP0060,Active,L2,4.5
+EMP0379,Patricia Ferguson,clarkcrystal@hancock.com,Legal,Paralegal,Dublin,2024-07-08,EMP0217,Active,L5,1.9
+EMP0380,Ronald Johns,elucas@parks.com,HR,Recruiter,Dubai,2025-09-06,EMP0148,Active,L3,0.8
+EMP0381,Anthony Bauer,andrewsjeremy@russell-hayes.biz,IT,IT Admin,Toronto,2026-03-25,EMP0005,Active,L2,0.2
+EMP0382,Alan Nunez,maychristine@richards.net,Legal,General Counsel,Dublin,2025-09-27,EMP0351,Active,L4,0.7
+EMP0383,Richard Turner,campbellsara@foster-guerrero.info,IT,IT Admin,New York,2022-05-21,EMP0113,Active,L3,4.1
+EMP0384,Daniel Francis,susan24@eaton.com,Finance,CFO,Mumbai,2025-07-14,EMP0235,Active,L4,0.9
+EMP0385,Alexandra Baxter,davidsmith@long.com,Sales,Account Executive,Sydney,2025-10-31,EMP0279,Terminated,L3,0.6
+EMP0386,Stephanie Cooper,gwhitehead@martin.org,Engineering,Senior Engineer,Dublin,2024-09-18,EMP0053,On Leave,L2,1.7
+EMP0387,Cheyenne White,yorksarah@murray.com,Operations,Coordinator,Sydney,2021-03-27,EMP0179,Terminated,L1,5.2
+EMP0388,Craig Carpenter,michael31@harvey-mccullough.com,IT,Security Analyst,Singapore,2021-12-17,EMP0378,Active,L3,4.5
+EMP0389,Mr. Matthew Steele,arianadiaz@benjamin-jackson.com,Legal,Paralegal,Singapore,2022-05-17,EMP0106,Terminated,L5,4.1
+EMP0390,Daniel Singh,xhill@frazier.info,Marketing,Digital Marketer,Mumbai,2025-06-28,EMP0166,Terminated,L3,0.9
+EMP0391,Ian Torres,thompsoncatherine@trevino-taylor.net,Operations,Analyst,London,2025-10-31,EMP0070,Terminated,L4,0.6
+EMP0392,Nicholas Sims,mcclainmelissa@johnson.org,Engineering,Senior Engineer,Mumbai,2023-04-28,EMP0128,Active,L3,3.1
+EMP0393,Andrew Green,jvaldez@long-vance.org,Finance,Accountant,Mumbai,2024-04-20,EMP0296,On Leave,L4,2.1
+EMP0394,Donna Marshall,sanderswayne@allen.com,Legal,Legal Counsel,London,2024-10-21,EMP0207,Active,L3,1.6
+EMP0395,Brenda Moore,jillwebb@williams-juarez.com,Marketing,CMO,Toronto,2024-10-30,EMP0298,Active,L1,1.6
+EMP0396,Jacob Williams,aprilmoody@harrison-gibson.com,IT,IT Admin,Dublin,2024-01-04,EMP0112,Terminated,L2,2.4
+EMP0397,Matthew Garcia,mary49@hudson.org,IT,Network Engineer,Sydney,2023-03-31,EMP0173,Active,L2,3.2
+EMP0398,Sara Black,okaufman@sullivan.info,IT,IT Admin,New York,2023-11-20,EMP0051,On Leave,L4,2.6
+EMP0399,Adriana Macias,emartin@schneider.com,Engineering,Senior Engineer,Dubai,2022-01-07,EMP0234,Active,L4,4.4
+EMP0400,Ruth Guerrero,ushepherd@olson.info,Finance,CFO,Mumbai,2022-01-31,EMP0141,Active,L3,4.4
+EMP0401,Christopher Whitaker,sanchezdavid@martin.org,Operations,Analyst,Mumbai,2021-08-30,EMP0027,Active,L3,4.8
+EMP0402,Christopher Nielsen,kgreene@smith.com,Finance,Financial Analyst,London,2024-08-12,EMP0001,Active,L1,1.8
+EMP0403,Claire Obrien,kdillon@greer.com,HR,Recruiter,Dubai,2026-01-04,EMP0005,Active,L3,0.4
+EMP0404,Samantha White,gary57@garza.com,Sales,Sales Manager,Dubai,2024-07-21,EMP0037,Active,L1,1.9
+EMP0405,Joseph Blankenship,mserrano@thompson.org,Sales,SDR,Toronto,2021-11-03,EMP0154,Active,L2,4.6
+EMP0406,Richard Gordon,davisdonna@ryan.biz,HR,HR Business Partner,Mumbai,2021-07-18,EMP0226,Active,L2,4.9
+EMP0407,Jacqueline Williams,zperez@clarke-james.org,HR,HR Director,Singapore,2024-06-18,EMP0045,Terminated,L2,2.0
+EMP0408,Susan Hood,colemanjonathan@kent.com,Sales,VP Sales,Toronto,2025-12-23,EMP0220,Active,L2,0.5
+EMP0409,Kimberly Scott,fletcherkristine@mills.com,Finance,Financial Analyst,Singapore,2023-04-27,EMP0284,On Leave,L5,3.1
+EMP0410,Emily Cox,ronaldrichards@wyatt-henderson.com,Operations,Analyst,Singapore,2021-03-10,EMP0266,On Leave,L2,5.2
+EMP0411,Wendy Sanders,robertbowers@white-hansen.info,Legal,Legal Counsel,Singapore,2023-06-23,EMP0254,Active,L2,3.0
+EMP0412,Eric Cooper,qfitzgerald@adkins.com,IT,IT Admin,New York,2026-01-05,EMP0185,Terminated,L2,0.4
+EMP0413,Jordan Hartman,martintamara@brock.info,Legal,General Counsel,Toronto,2025-10-18,EMP0280,On Leave,L4,0.6
+EMP0414,Jessica Brown,nathanlynch@cruz.net,Sales,Account Executive,New York,2021-02-07,EMP0135,Active,L1,5.3
+EMP0415,Victor Brown,daniellegonzales@jefferson.com,Legal,Compliance Officer,Dublin,2025-04-09,EMP0217,On Leave,L1,1.2
+EMP0416,Richard Dixon,christinacraig@allen-smith.com,HR,HR Business Partner,Sydney,2023-04-28,EMP0041,Active,L2,3.1
+EMP0417,Donald Ross,msullivan@smith.net,HR,L&D Specialist,Dublin,2025-07-11,EMP0301,On Leave,L1,0.9
+EMP0418,Ronald Herman,michael43@mccarty.com,Operations,Project Manager,New York,2024-09-06,EMP0126,Active,L4,1.8
+EMP0419,Jason Rodriguez,gordonmatthew@pratt.net,Sales,Account Executive,Sydney,2024-10-26,EMP0342,On Leave,L2,1.6
+EMP0420,Laura Benson,xhart@todd.info,Sales,Sales Manager,New York,2021-01-25,EMP0084,Active,L3,5.4
+EMP0421,Shannon Olson,carlos33@gutierrez-gomez.net,Operations,Analyst,Mumbai,2022-05-20,EMP0384,On Leave,L3,4.1
+EMP0422,Ronnie Wright,rosskaitlyn@jones-velazquez.info,Sales,SDR,Dublin,2021-03-18,EMP0140,Active,L3,5.2
+EMP0423,Daniel Berry,staceyvega@porter.com,Sales,VP Sales,Toronto,2025-03-07,EMP0029,Active,L5,1.3
+EMP0424,Shelley Clark,maryhuff@moore-rodriguez.com,HR,Recruiter,Sydney,2024-02-02,EMP0396,Active,L5,2.3
+EMP0425,Mary Austin,charlesnathan@vasquez-galloway.org,Sales,Account Executive,New York,2022-11-27,EMP0007,Active,L4,3.5
+EMP0426,Katherine Joyce,raymond92@fox.info,Marketing,Content Strategist,Mumbai,2024-03-21,EMP0019,Active,L4,2.2
+EMP0427,Amanda Reed,stephenmartinez@stevens.com,Finance,Controller,Dublin,2023-09-13,EMP0369,Active,L1,2.7
+EMP0428,Brian Ward,jacob43@ruiz-austin.com,Marketing,Marketing Manager,Mumbai,2021-12-23,EMP0115,Terminated,L1,4.5
+EMP0429,Jeff Barnes,michael64@white-anderson.org,Legal,General Counsel,Sydney,2021-07-19,EMP0397,Terminated,L3,4.9
+EMP0430,Robin Le,angelachase@thomas.com,Sales,VP Sales,New York,2025-08-31,EMP0189,Active,L5,0.8
+EMP0431,Adam Fisher,wendyatkinson@ferguson.com,Operations,Project Manager,Dubai,2026-04-05,EMP0189,Active,L4,0.2
+EMP0432,Laura Ross,briancervantes@combs-davis.com,Finance,Controller,Mumbai,2025-08-11,EMP0004,Terminated,L1,0.8
+EMP0433,Isaac Grant,maurice61@dillon-mccarty.com,Finance,CFO,New York,2025-07-27,EMP0172,Active,L4,0.9
+EMP0434,Marie Ryan,michael87@griffin.info,Operations,Project Manager,Singapore,2021-11-05,EMP0215,Active,L1,4.6
+EMP0435,Brianna Jackson,robert99@sweeney-jones.com,HR,HR Business Partner,New York,2023-05-05,EMP0119,Terminated,L5,3.1
+EMP0436,Erik Delgado,catherine64@norman-mcmillan.org,Legal,General Counsel,London,2024-02-17,EMP0298,Active,L2,2.3
+EMP0437,Joanna Jackson,martinezjimmy@shepard-haynes.com,Legal,Legal Counsel,Dublin,2021-08-06,EMP0340,Terminated,L2,4.8
+EMP0438,James Davis,bkelley@warren-ferrell.com,Operations,Analyst,Dublin,2023-03-08,EMP0359,Terminated,L3,3.3
+EMP0439,Christopher Pena,pparker@mitchell.com,Marketing,Digital Marketer,Singapore,2024-10-24,EMP0039,Terminated,L2,1.6
+EMP0440,Matthew Dalton,michelle78@dunn-taylor.net,Sales,Account Executive,Mumbai,2022-04-14,EMP0231,Active,L4,4.2
+EMP0441,Kyle Welch,omills@collins.com,Sales,SDR,Singapore,2025-07-09,EMP0232,Active,L3,0.9
+EMP0442,Jacob Green,alex82@mitchell-nichols.info,Sales,Sales Manager,Sydney,2021-09-24,EMP0424,On Leave,L5,4.7
+EMP0443,Karen Smith,myates@robles.com,Engineering,Tech Lead,Mumbai,2022-10-16,EMP0047,On Leave,L3,3.6
+EMP0444,Stephen Kim,frankmclaughlin@clayton-walker.com,Legal,Legal Counsel,Sydney,2025-04-30,EMP0134,Terminated,L2,1.1
+EMP0445,David Duran,justin84@lopez-jones.com,Engineering,DevOps Engineer,Singapore,2024-05-26,EMP0049,Active,L2,2.0
+EMP0446,Mark Williamson,jackie73@smith-williams.net,Sales,Account Executive,Singapore,2021-01-23,EMP0067,Active,L4,5.4
+EMP0447,William Campbell,jenniferacosta@davis.info,Marketing,Marketing Manager,Sydney,2026-04-28,EMP0417,Active,L1,0.1
+EMP0448,Jason Floyd,dbolton@moody.com,Finance,Controller,London,2024-09-25,EMP0434,Terminated,L3,1.7
+EMP0449,Reginald Jones,qwhite@clayton-martinez.com,Sales,VP Sales,New York,2021-04-29,EMP0087,Terminated,L4,5.1
+EMP0450,William Wright,gonzalezjill@boyd.info,Legal,Legal Counsel,Dublin,2025-03-07,EMP0350,Active,L3,1.3
+EMP0451,Tyrone Mayer,crystalwilliams@meyer.com,Finance,CFO,Sydney,2022-07-21,EMP0229,Terminated,L1,3.9
+EMP0452,Anthony Estrada,youngryan@jackson.org,Finance,Accountant,Dublin,2023-06-22,EMP0282,Active,L1,3.0
+EMP0453,Richard Smith,perkinshannah@carlson.com,Operations,Project Manager,Dublin,2024-03-21,EMP0103,On Leave,L5,2.2
+EMP0454,Mr. George Booker DDS,browndeanna@herrera.com,Finance,Financial Analyst,Dublin,2026-04-30,EMP0401,On Leave,L4,0.1
+EMP0455,Dr. Nicole Trujillo,bquinn@gray.com,IT,Network Engineer,Dublin,2023-11-21,EMP0139,Active,L3,2.6
+EMP0456,Mr. Edward Terry,ashleystephens@oconnor-hill.org,Finance,CFO,New York,2021-03-18,EMP0415,Terminated,L5,5.2
+EMP0457,Kristen Jones,shannonweiss@richardson.biz,Marketing,Content Strategist,Mumbai,2025-12-05,EMP0052,Active,L2,0.5
+EMP0458,Sonya Harvey,kimberly35@brown.com,Operations,Operations Manager,Singapore,2025-07-02,EMP0295,Terminated,L4,0.9
+EMP0459,Kathleen Arnold,marcus51@mills.com,Marketing,Content Strategist,Singapore,2022-06-10,EMP0304,Active,L3,4.0
+EMP0460,Beverly Russo,daniellee@duncan.info,Engineering,Senior Engineer,Singapore,2023-12-15,EMP0429,Terminated,L4,2.5
+EMP0461,Meredith Scott,jeffrey10@rios.info,Operations,Coordinator,New York,2022-06-15,EMP0047,Active,L5,4.0
+EMP0462,Amy Grant,yshort@brown.com,Finance,Accountant,New York,2021-02-17,EMP0170,Terminated,L2,5.3
+EMP0463,Angela Lewis,garciajerry@lopez-fox.com,HR,Recruiter,Toronto,2023-11-11,EMP0031,Active,L5,2.6
+EMP0464,Theresa Hansen,xreese@ray.biz,HR,L&D Specialist,London,2021-11-27,EMP0192,On Leave,L4,4.5
+EMP0465,Carol White,qwagner@ferguson.info,Sales,SDR,Toronto,2023-10-29,EMP0070,Terminated,L4,2.6
+EMP0466,Stephanie Pierce,megan66@morris.biz,IT,Security Analyst,Toronto,2023-08-30,EMP0115,On Leave,L2,2.8
+EMP0467,Tammy King,zwest@barber.org,Legal,Compliance Officer,Mumbai,2023-07-28,EMP0091,On Leave,L5,2.9
+EMP0468,Chad Zamora,evansjeffrey@smith-short.com,Legal,Legal Counsel,Mumbai,2025-10-15,EMP0309,Active,L5,0.6
+EMP0469,Kayla Duncan,clintonstevens@taylor.org,Finance,Financial Analyst,Dubai,2025-10-09,EMP0073,Active,L1,0.7
+EMP0470,David Evans,ncarroll@jones.info,Finance,CFO,Mumbai,2023-11-30,EMP0326,Terminated,L1,2.5
+EMP0471,Melissa Johnston,larsonkevin@stokes.com,Marketing,Marketing Manager,Sydney,2024-10-05,EMP0108,Active,L1,1.7
+EMP0472,Robert Butler,kanejeremy@atkinson.biz,Marketing,Marketing Manager,New York,2023-02-22,EMP0025,Active,L4,3.3
+EMP0473,Joseph Flores,markwolfe@williams.biz,HR,HR Director,Dublin,2024-06-25,EMP0180,Active,L1,2.0
+EMP0474,Nicole Johnston,walkerkeith@hernandez-rogers.info,IT,Security Analyst,Mumbai,2025-11-17,EMP0232,Active,L1,0.6
+EMP0475,Amber Ross,rossryan@anderson.info,Operations,Analyst,Sydney,2021-02-17,EMP0054,Active,L2,5.3
+EMP0476,Kenneth Hoffman,johnadams@morris-glass.com,Legal,Legal Counsel,London,2022-05-01,EMP0174,Active,L5,4.1
+EMP0477,Jason Diaz,malikwheeler@carrillo.com,IT,CTO,Mumbai,2021-03-23,EMP0311,Terminated,L2,5.2
+EMP0478,Wanda Ramos,scottglass@gonzalez.com,Engineering,Tech Lead,Singapore,2021-10-28,EMP0098,Active,L5,4.6
+EMP0479,Sarah Rodriguez,sanchezchristine@melton.com,Operations,Analyst,Singapore,2023-05-11,EMP0050,Active,L5,3.1
+EMP0480,Robert Torres,njohnson@medina.com,IT,IT Admin,Toronto,2022-04-08,EMP0002,Active,L3,4.2
+EMP0481,Lisa Gay,bennettrebecca@williams.org,IT,IT Admin,New York,2022-08-29,EMP0106,Active,L3,3.8
+EMP0482,John Landry,pricejoseph@ward.biz,Sales,Account Executive,Sydney,2024-12-27,EMP0402,Active,L4,1.4
+EMP0483,James Bray,mckeetodd@schmidt.info,Operations,Coordinator,Mumbai,2021-09-26,EMP0190,Terminated,L3,4.7
+EMP0484,Michelle Williams,matthew62@reed.com,HR,HR Business Partner,Sydney,2024-10-02,EMP0226,Active,L2,1.7
+EMP0485,Cynthia Good,lisa46@raymond.com,Operations,Operations Manager,Mumbai,2025-10-05,EMP0386,On Leave,L1,0.7
+EMP0486,Steven Sandoval,blairabigail@salazar.com,Sales,VP Sales,Singapore,2023-11-20,EMP0284,Active,L4,2.6
+EMP0487,Jessica Edwards,shane23@taylor.com,Legal,General Counsel,Singapore,2025-07-08,EMP0244,Active,L4,0.9
+EMP0488,Michael Mills,russellstout@douglas.com,Engineering,Senior Engineer,London,2025-03-26,EMP0487,On Leave,L2,1.2
+EMP0489,Justin Fry,whitemary@acosta.biz,HR,Recruiter,Mumbai,2022-10-06,EMP0022,Active,L4,3.7
+EMP0490,Elizabeth Reese,edwin31@lopez.org,Finance,Controller,Sydney,2026-04-19,EMP0164,Terminated,L1,0.1
+EMP0491,Keith Hall,jerryjohnson@watts.com,Sales,VP Sales,Toronto,2024-04-06,EMP0439,Active,L4,2.2
+EMP0492,Lisa Joseph,jack67@taylor-lee.com,Engineering,DevOps Engineer,London,2026-04-06,EMP0213,Active,L5,0.2
+EMP0493,Wayne Schaefer,qwalker@todd.com,Sales,Account Executive,Sydney,2021-11-10,EMP0445,Active,L3,4.6
+EMP0494,Victoria Camacho,dwatts@patterson.org,Legal,General Counsel,Dubai,2023-03-18,EMP0293,On Leave,L1,3.2
+EMP0495,Jamie Edwards,meyershannon@rich.net,HR,HR Director,Mumbai,2023-04-22,EMP0317,On Leave,L4,3.1
+EMP0496,Victoria Williams,oblack@lee.biz,Engineering,Tech Lead,Singapore,2024-04-30,EMP0026,On Leave,L3,2.1
+EMP0497,Patricia Mitchell,robertoaustin@vaughn.info,Marketing,Digital Marketer,Sydney,2021-02-18,EMP0160,Active,L4,5.3
+EMP0498,Jocelyn Sharp,whitebrenda@payne.com,Sales,Sales Manager,Sydney,2022-11-25,EMP0381,Active,L3,3.5
+EMP0499,Kevin Marquez,nicoledavis@holt-meadows.com,Operations,Operations Manager,Singapore,2024-07-04,EMP0227,Active,L4,1.9
+EMP0500,Becky Wilson,fwalters@zimmerman.org,IT,Network Engineer,New York,2025-05-10,EMP0264,On Leave,L1,1.1

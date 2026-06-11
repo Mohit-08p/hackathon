@@ -1,0 +1,9 @@
+department,year,budget_usd,spent_usd,headcount,avg_training_hours_target
+Engineering,2025,53044,20744,58,30
+Sales,2025,158283,77799,75,27
+HR,2025,143876,40617,50,33
+Finance,2025,109200,67815,58,39
+Operations,2025,146752,31406,75,35
+Marketing,2025,163298,51277,60,31
+Legal,2025,97741,54568,59,23
+IT,2025,112864,23687,65,24

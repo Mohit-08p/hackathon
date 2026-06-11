@@ -1,0 +1,16 @@
+id,title,category,duration_h,required
+C001,Data Privacy & GDPR Fundamentals,Compliance,2.0,True
+C002,Workplace Safety & Health,Compliance,1.5,True
+C003,Code of Conduct & Ethics,Compliance,1.0,True
+C004,Cybersecurity Awareness,Compliance,2.0,True
+C005,Anti-Harassment & Inclusion,Compliance,1.5,True
+C006,Python for Data Science,Technical,8.0,False
+C007,Azure Cloud Fundamentals,Technical,6.0,False
+C008,Leadership & Influence,Leadership,4.0,False
+C009,Project Management (PMP Prep),Professional,10.0,False
+C010,Advanced Excel & Power BI,Technical,5.0,False
+C011,Communication Skills,Soft Skills,3.0,False
+C012,Sales Techniques & CRM,Sales,4.0,False
+C013,Financial Modelling,Finance,6.0,False
+C014,Agile & Scrum Practitioner,Technical,4.0,False
+C015,AI & Machine Learning Basics,Technical,5.0,False
